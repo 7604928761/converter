@@ -1,0 +1,36 @@
+.box{
+    height:500px;
+    width:900px;
+    background-color:rgb(31, 154, 203);
+    border:2px solid black;
+    margin:auto;
+    margin-top:300px;
+    border-radius:20px;;
+} h1{
+    text-align: center;
+    font-size:50px;
+} #hr{
+    margin-left:260px;
+    font-size:30px;
+    margin-top:40px;
+}
+button{
+    margin-left:360px;
+    margin-top: 50px;
+    font-size:40px;
+}#min{
+    margin-left:400px;
+    font-size:30px;
+    margin-top:40px;
+    font-size:40px;
+}
+body{
+    background-color:rgb(230, 20, 20);
+}
+a{
+    text-decoration: none;
+    font-size: 50px;
+    margin-left:47%;
+    position: absolute;
+    top:100px;
+}
